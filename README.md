@@ -60,3 +60,13 @@ Tkinter
 Figma 
 
 Canva
+
+📚 Currently Learning
+
+Advanced SQL – Optimizing queries, database design, and complex data manipulation
+
+Machine Learning Model Optimization – Improving model accuracy, feature engineering, and hyperparameter tuning
+
+Project Development for Internships – Building end-to-end AI/ML and data-driven projects to gain hands-on experience
+
+Deepening AI/ML Knowledge – Exploring advanced algorithms, NLP applications, and real-world problem solving
