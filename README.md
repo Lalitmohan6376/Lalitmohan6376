@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a passionate AI/ML enthusiast with a strong foundation in programming, data analytics, and web development. I love turning data into insights, building machine learning models, and creating interactive web applications.
+I am a passionate AI & Machine Learning enthusiast with expertise in Python, data analytics, and web development. I build intelligent applications, data-driven solutions, and interactive visualizations using modern tools and frameworks. I thrive on solving real-world problems with AI/ML, NLP, and creative tech solutions.
 
 💻 Skills
 
