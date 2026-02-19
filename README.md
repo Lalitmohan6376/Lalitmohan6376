@@ -1,6 +1,11 @@
 ## Hi there 👋
 I am a passionate AI & Machine Learning enthusiast with expertise in Python, data analytics, and web development. I build intelligent applications, data-driven solutions, and interactive visualizations using modern tools and frameworks. I thrive on solving real-world problems with AI/ML, NLP, and creative tech solutions.
 
+Connect wWth Me:
+-https://www.kaggle.com/lalitgurjar63767781
+-https://www.linkedin.com/in/lalit-mohan-6396463a4/
+--lalitg6376@gmaiil.com
+
 💻 Skills
 
 🖥 Programming Languages:
