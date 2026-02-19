@@ -1,16 +1,62 @@
 ## Hi there 👋
+I am a passionate AI/ML enthusiast with a strong foundation in programming, data analytics, and web development. I love turning data into insights, building machine learning models, and creating interactive web applications.
 
-<!--
-**Lalitmohan6376/Lalitmohan6376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills
 
-Here are some ideas to get you started:
+🖥 Programming Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python 🐍
+
+SQL 💾
+
+🌐 Web Technologies:
+
+HTML 🌐
+
+CSS 🎨
+
+⚡ Frameworks:
+
+Flask 🍶
+
+FastAPI 🚀
+
+📊 Data Analytics & Visualization:
+
+Pandas 🐼
+
+NumPy 🔢
+
+Matplotlib 📈
+
+Seaborn 🌊
+
+Power BI 📊
+
+🤖 Machine Learning & NLP:
+
+Scikit-learn ⚙️
+
+SpaCy 🧠
+
+🗄 Databases:
+
+MySQL 🗃
+
+🛠 Tools & Platforms:
+
+Git & GitHub 🧩
+
+Google Colab ☁️
+
+Jupyter Notebook 📓
+
+VS Code 💻
+
+🎨 Others:
+
+Tkinter 🖼
+
+Figma ✏️
+
+Canva 🎨
