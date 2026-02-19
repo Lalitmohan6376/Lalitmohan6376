@@ -55,8 +55,8 @@ VS Code 💻
 
 🎨 Others:
 
-Tkinter 🖼
+Tkinter
 
-Figma ✏️
+Figma 
 
-Canva 🎨
+Canva
