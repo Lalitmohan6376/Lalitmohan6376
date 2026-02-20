@@ -27,4 +27,4 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 ![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Lalitmohan6376?affiliations=OWNER&style=for-the-badge)
 
-![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](YOUR_PROFILE_LINK)
