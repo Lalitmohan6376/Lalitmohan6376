@@ -20,5 +20,4 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 
 ## 🟢 Contributions Overview
 ![Lalitmohan6376's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitmohan6376&theme=github)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lalitmohan6376&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitmohan6376&layout=compact&theme=default&hide_border=true)
