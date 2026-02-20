@@ -24,4 +24,6 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lalitmohan6376&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitmohan6376&theme=default)
 
-![Snake animation](https://raw.githubusercontent.com/Lalitmohan6376/Lalitmohan6376/output/github-contribution-grid-snake.svg)
+![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Lalitmohan6376?affiliations=OWNER&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Lalitmohan6376&color=blue&style=for-the-badge)
