@@ -26,4 +26,10 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 
 ![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Lalitmohan6376?affiliations=OWNER&style=for-the-badge)
+
+
 ![](https://komarev.com/ghpvc/?username=Lalitmohan6376&color=blue&style=for-the-badge)
+
+![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lalitmohan6376&theme=default)
