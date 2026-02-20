@@ -26,5 +26,3 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 
 ![Followers](https://img.shields.io/github/followers/Lalitmohan6376?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Lalitmohan6376?affiliations=OWNER&style=for-the-badge)
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lalitmohan6376&repo=REPOSITORY_NAME&theme=default&hide_border=true)
