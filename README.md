@@ -12,7 +12,11 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 
 # 📊 GitHub Stats:
 ![Streak](https://streak-stats.demolab.com?user=Lalitmohan6376)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lalitmohan6376)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitmohan6376&theme=github)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lalitmohan6376&theme=github)
+
+
 ## 🟢 Contributions Overview
 ![Lalitmohan6376's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitmohan6376&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalitmohan6376&theme=default)
