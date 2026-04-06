@@ -13,8 +13,7 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 # 📊 GitHub Stats:
 ![Streak](https://streak-stats.demolab.com?user=Lalitmohan6376)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitmohan6376)
-
+![Streak](https://streak-stats.demolab.com?user=Lalitmohan6376)
 
 ## 🟢 Contributions Overview
 ![Lalitmohan6376's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitmohan6376&theme=github)
