@@ -14,6 +14,7 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 ![Streak](https://streak-stats.demolab.com?user=Lalitmohan6376)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalitmohan6376&theme=github)
+
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lalitmohan6376&theme=github)
 
 
