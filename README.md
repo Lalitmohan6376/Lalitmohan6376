@@ -12,7 +12,7 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 
 # 📊 GitHub Stats:
 
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lalitmohan6376)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lalitmohan6376)
 
 ## 🟢 Contributions Overview
 ![Lalitmohan6376's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitmohan6376&theme=github)
