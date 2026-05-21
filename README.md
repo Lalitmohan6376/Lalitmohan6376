@@ -13,6 +13,7 @@ I am passionate about AI & Machine Learning and exploring how technology can sol
 # 📊 GitHub Stats:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lalitmohan6376&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 🟢 Contributions Overview
 ![Lalitmohan6376's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalitmohan6376&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalitmohan6376&theme=default)
