@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am passionate about AI & Machine Learning and exploring how technology can solve real-world problems.<br><br>Currently learning advanced AI/ML concepts, model optimization, and building projects to gain hands-on experience.<br><br>Skilled in Python, data analytics, web development, and NLP, with experience in frameworks like Flask and FastAPI.<br><br>I enjoy turning data into insights, creating intelligent applications, and building interactive visualizations.<br><br>Continuously experimenting with new technologies and developing practical projects to strengthen my skills.
+I am passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing, with a strong interest in developing intelligent systems that solve real-world problems through data-driven solutions.
+
+Currently, I am deepening my knowledge of advanced AI/ML algorithms, Deep Learning architectures, model optimization, and modern NLP techniques while building practical projects to gain hands-on experience.
+
+My expertise includes Python, Machine Learning, Deep Learning, Data Analytics, Data Visualization, Natural Language Processing (NLP), and working with data to extract meaningful insights and build predictive models. I enjoy exploring complex datasets, developing intelligent solutions, and applying AI techniques to real-world challenges.
+
+I am committed to continuous learning, staying up to date with the latest advancements in AI, and building impactful projects that strengthen my technical skills and problem-solving abilities.
+
+
 
 
 ## 🌐 Socials:
