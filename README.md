@@ -1,13 +1,7 @@
 # 💫 About Me:
-I am passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing, with a strong interest in developing intelligent systems that solve real-world problems through data-driven solutions.
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing, with a strong focus on building intelligent, data-driven solutions for real-world problems.
 
-Currently, I am deepening my knowledge of advanced AI/ML algorithms, Deep Learning architectures, model optimization, and modern NLP techniques while building practical projects to gain hands-on experience.
-
-My expertise includes Python, Machine Learning, Deep Learning, Data Analytics, Data Visualization, Natural Language Processing (NLP), and working with data to extract meaningful insights and build predictive models. I enjoy exploring complex datasets, developing intelligent solutions, and applying AI techniques to real-world challenges.
-
-I am committed to continuous learning, staying up to date with the latest advancements in AI, and building impactful projects that strengthen my technical skills and problem-solving abilities.
-
-
+Currently exploring advanced AI/ML concepts, developing hands-on projects, and continuously expanding my knowledge of modern AI technologies. Skilled in Python, Machine Learning, Data Analysis, TensorFlow, Scikit-learn, and NLP, with a commitment to continuous learning and innovation.
 
 
 ## 🌐 Socials:
