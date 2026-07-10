@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 I am passionate about AI & Machine Learning and exploring how technology can solve real-world problems.<br><br>Currently learning advanced AI/ML concepts, model optimization, and building projects to gain hands-on experience.<br><br>Skilled in Python, data analytics, web development, and NLP, with experience in frameworks like Flask and FastAPI.<br><br>I enjoy turning data into insights, creating intelligent applications, and building interactive visualizations.<br><br>Continuously experimenting with new technologies and developing practical projects to strengthen my skills.
 
 
